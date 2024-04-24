@@ -3,5 +3,22 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "templateSha": "408a7ecc990db8dcd9ed2a3f32f7922669f05dba",
   "enableCodeCop": true,
-  "enableUICop": true
+  "enableUICop": true,
+  "environments": [
+    "SP_DEV",
+    "SP_LS_CENTRAL",
+    "SP_WORKSHOP"
+  ],
+  "DeployToSP_DEV": {
+    "environmentName": "SP_DEV",
+    "continuousDeployment": true
+  },
+  "DeployToSP_LS_CENTRAL": {
+    "environmentName": "SP_LS_CENTRAL",
+    "continuousDeployment": true
+  },
+  "DeployToSP_WORKSHOP": {
+    "environmentName": "SP_WORKSHOP",
+    "continuousDeployment": true
+  }
 }
