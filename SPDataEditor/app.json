@@ -1,0 +1,31 @@
+{
+  "id": "8702750c-c1bd-48e5-91dd-398bc2d2688b",
+  "name": "SP Data Editor",
+  "publisher": "StrongPoint",
+  "version": "24.0.0.0",
+  "brief": "StrongPoint Extension for Editing Data",
+  "description": "StrongPoint Extension for Editing Data",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.prekybosvaldymas.lt",
+  "logo": "images/splogo_iVz_icon.ico",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 56000,
+      "to": 56009
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "target": "Cloud",
+  "features": ["TranslationFile","GenerateCaptions"]
+}
