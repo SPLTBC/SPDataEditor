@@ -1,6 +1,9 @@
 {
   "country": "lt",
-  "appFolders": [],
+  "appFolders": [
+    "./SPDataEditor"
+  ],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "projectName": "SP Data Editor"
 }
