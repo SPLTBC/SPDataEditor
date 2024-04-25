@@ -8,17 +8,5 @@
     "SP_DEV",
     "SP_LS_CENTRAL",
     "SP_WORKSHOP"
-  ],
-  "DeployToSP_DEV": {
-    "environmentName": "SP_DEV",
-    "continuousDeployment": true
-  },
-  "DeployToSP_LS_CENTRAL": {
-    "environmentName": "SP_LS_CENTRAL",
-    "continuousDeployment": true
-  },
-  "DeployToSP_WORKSHOP": {
-    "environmentName": "SP_WORKSHOP",
-    "continuousDeployment": true
-  }
+  ]
 }
