@@ -5,9 +5,7 @@
   "enableCodeCop": true,
   "enableUICop": true,
   "environments": [
-    "SP_DEV",
-    "SP_LS_CENTRAL",
-    "SP_WORKSHOP"
+    "SP_DEV"
   ],
   "CurrentSchedule": "0 2 * * *",
   "NextMinorSchedule": "0 2 * * 6",
