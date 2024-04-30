@@ -1,6 +1,6 @@
 page 56007 "SP DET Find and Replace"
 {
-    //ApplicationArea = All;
+    ApplicationArea = All;
     Caption = 'Find and Replace';
     PageType = Worksheet;
     SourceTable = "SP DET Find and Replace";

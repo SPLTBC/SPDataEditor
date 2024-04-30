@@ -6,7 +6,7 @@ page 56001 "SP DET Data Editor"
     ApplicationArea = All;
     UsageCategory = Tasks;
     InsertAllowed = false;
-    //AccessByPermission = tabledata "SP DET Data Editor Buffer" = RIMD;
+    AccessByPermission = tabledata "SP DET Data Editor Buffer" = RIMD;
     layout
     {
         area(content)
