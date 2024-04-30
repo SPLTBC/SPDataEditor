@@ -1,6 +1,6 @@
 page 56006 "SP DET Key"
 {
-    //ApplicationArea = All;
+    ApplicationArea = All;
     Caption = 'Key';
     PageType = List;
     SourceTable = "Key";
