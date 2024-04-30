@@ -258,7 +258,6 @@ page 56002 "SP DET Edit Value"
         DateTimeValue: DateTime;
         TimeValue: Time;
         GuidValue: Guid;
-        [InDataSet]
         IsBooleanValue, isCodeValue, IsTextValue, IsIntegerValue, IsDecimalValue, IsDateValue, IsDateFormulaValue, IsDateTimeValue, IsTimeValue, IsGuidValue : Boolean;
 
 }
