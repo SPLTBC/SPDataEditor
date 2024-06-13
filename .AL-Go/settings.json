@@ -1,10 +1,12 @@
 {
   "country": "lt",
+  "generateDependencyArtifact": true,
+  "doNotPublishApps" : true,
+  "useCompilerFolder": true,
   "appFolders": [
     "./SPDataEditor"
   ],
   "testFolders": [],
   "bcptTestFolders": [],
-  "projectName": "SP Data Editor",
-  "repoVersion": "1.1"
+  "projectName": "SP Data Editor"
 }
